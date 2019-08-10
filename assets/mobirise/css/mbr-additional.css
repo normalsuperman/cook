@@ -1994,3 +1994,165 @@ body {
 .cid-ryAshTwxMM .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-ryKXVDFnjt {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-ryKXVDFnjt .mbr-section-subtitle,
+.cid-ryKXVDFnjt .mbr-text {
+  color: #767676;
+}
+.cid-ryKXVDFnjt .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ryKXVDFnjt .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-img .mbr-overlay {
+  background-color: #faf59f;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-ryKXVDFnjt .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-box {
+  background-color: #faf59f;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-ryKXVDFnjt .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-ryKXVDFnjt .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-ryKXVDFnjt .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-ryKXVDFnjt .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-ryKXVDFnjt .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-ryKXVDFnjt .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-ryKYvVbD1i {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+}
+.cid-ryKYvVbD1i .mbr-section-subtitle,
+.cid-ryKYvVbD1i .mbr-text {
+  color: #767676;
+}
+.cid-ryKYvVbD1i .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ryKYvVbD1i .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-img .mbr-overlay {
+  background-color: #faf59f;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-ryKYvVbD1i .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-box {
+  background-color: #faf59f;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-ryKYvVbD1i .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-ryKYvVbD1i .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-ryKYvVbD1i .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-ryKYvVbD1i .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-ryKYvVbD1i .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-ryKYvVbD1i .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
