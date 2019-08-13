@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-1",
-    "currentPage": "page8.html",
+    "currentPage": "justcook5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -305,7 +305,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Page 1",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -355,7 +355,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Page 2",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -554,11 +554,11 @@
         }
       ]
     },
-    "page3.html": {
+    "justcook1.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "justcook",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -604,11 +604,11 @@
         }
       ]
     },
-    "page4.html": {
+    "justcook2.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "justcooki2",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -725,11 +725,11 @@
         }
       ]
     },
-    "page6.html": {
+    "justcook3.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "justcook3",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -940,11 +940,11 @@
         }
       ]
     },
-    "page7.html": {
+    "justcook4.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
-        "title": "4",
-        "order": 4
+        "title": "justcook",
+        "order": 2
       },
       "components": [
         {
@@ -1155,7 +1155,7 @@
         }
       ]
     },
-    "page8.html": {
+    "justcook5.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "justcook",
