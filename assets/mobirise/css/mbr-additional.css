@@ -1576,89 +1576,6 @@ body {
     margin: auto;
   }
 }
-.cid-ryuvHSLfqL {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1357.jpg");
-}
-.cid-ryuvHSLfqL .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-ryuvHSLfqL .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-ryuvHSLfqL .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-ryuyPFQ8Ke {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-ryuyPFQ8Ke .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-ryuyPFQ8Ke .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-ryuyPFQ8Ke .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-ryuyPFQ8Ke .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-ryuyPFQ8Ke .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-ryuyPFQ8Ke .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-ryuyPFQ8Ke .mbr-gallery-item > div:hover:before {
-  opacity: 0.4 !important;
-}
-.cid-ryuyPFQ8Ke .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-ryuyPFQ8Ke .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.4;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
 .cid-ryAs49v4Xr {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -2255,4 +2172,103 @@ body {
 }
 .cid-rz3oHz8rgR .card-img:hover .mbr-section-btn {
   opacity: 1;
+}
+.cid-rAsoT84lb7 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rAsoT84lb7 h2 {
+  text-align: left;
+}
+.cid-rAsoT84lb7 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rAsoT84lb7 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rAsoT84lb7 .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rAsoT84lb7 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rAsoT84lb7 .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rAsoT84lb7 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rAsoT84lb7 .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rAsoT84lb7 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rAsoT84lb7 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rAsoT84lb7 .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rAsoT84lb7 .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rAsoT84lb7 P {
+  text-align: left;
+}
+.cid-rAwfO2wXAn {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rAwfO2wXAn h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rAwfO2wXAn .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rAwfO2wXAn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rAwfO2wXAn .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rAwfO2wXAn ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rAwfO2wXAn path {
+  stroke: #c69865;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rAwfO2wXAn .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
