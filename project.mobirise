@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-1",
-    "currentPage": "page6.html",
+    "currentPage": "page.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1117,10 +1117,10 @@
         }
       ]
     },
-    "page6.html": {
+    "page.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "justcook 12",
+        "meta_descr": "крабовый",
+        "title": "justcook12",
         "order": 1
       },
       "components": [
