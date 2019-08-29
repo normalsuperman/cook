@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-1",
-    "currentPage": "justcook12.html",
+    "currentPage": "justcook22.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1117,10 +1117,10 @@
         }
       ]
     },
-    "justcook12.html": {
+    "justcook22.html": {
       "settings": {
         "meta_descr": "крабовый",
-        "title": "justcook12",
+        "title": "justcook22",
         "order": 1
       },
       "components": [
