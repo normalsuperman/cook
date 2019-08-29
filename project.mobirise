@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-1",
-    "currentPage": "justcook.html",
+    "currentPage": "justcook2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -304,7 +304,7 @@
     "justcook3.html": {
       "settings": {
         "meta_descr": "салаты",
-        "title": "justcook2",
+        "title": "justcook",
         "order": 4
       },
       "components": [
@@ -784,7 +784,7 @@
     "justcook1.html": {
       "settings": {
         "meta_descr": "2",
-        "title": "justcook1",
+        "title": "justcook",
         "order": 5
       },
       "components": [
@@ -905,7 +905,7 @@
     "justcook32.html": {
       "settings": {
         "meta_descr": "выпечка\n",
-        "title": "justcook11",
+        "title": "justcook",
         "order": 2
       },
       "components": [
@@ -1120,7 +1120,7 @@
     "justcook2.html": {
       "settings": {
         "meta_descr": "крабовый",
-        "title": "justcook22",
+        "title": "justcook",
         "order": 1
       },
       "components": [
